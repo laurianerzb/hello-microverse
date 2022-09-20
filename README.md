@@ -2,7 +2,7 @@
 # Project Name
     Hello Microverse
 
-> Description the project.
+> Description the project: 
         Hello Microverse project consist of writing the text "Hello Microverse!" in html file and styling it using an external css file.
 
 
