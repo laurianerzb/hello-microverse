@@ -38,6 +38,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author1**
 
 - GitHub: [@laurianerzb](https://github.com/laurianerzb)
+- Twitter: [@Ruzuba_](https://twitter.com/Ruzuba_)
+- LinkedIn: [@Ruzuba-lauriane](https://www.linkedin.com/in/ruzuba-lauriane-36682b227/)
 
 
 ## Show your support
